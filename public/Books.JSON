@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/Book_1.png",
+      "genre": "Fantasy",
+      "audience": "Young Adult",
+      "title": "The Shadow Realm",
+      "author": "Lila Nightshade",
+      "rating": 4.7,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 2,
+      "image": "/assets/Book_2.png",
+      "genre": "Science Fiction",
+      "audience": "Adult",
+      "title": "Beyond the Stars",
+      "author": "Ethan Solar",
+      "rating": 4.5,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 3,
+      "image": "/assets/Book_3.png",
+      "genre": "Romance",
+      "audience": "Adult",
+      "title": "Hearts Entwined",
+      "author": "Amelia Rose",
+      "rating": 4.3,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 4,
+      "image": "/assets/Book_4.png",
+      "genre": "Mystery",
+      "audience": "Young Adult",
+      "title": "Whispers in the Dark",
+      "author": "James Sterling",
+      "rating": 4.6,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 5,
+      "image": "/assets/Book_5.png",
+      "genre": "Historical Fiction",
+      "audience": "Adult",
+      "title": "The Forgotten Legacy",
+      "author": "Elena Moreau",
+      "rating": 4.8,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 6,
+      "image": "/assets/Book_6.png",
+      "genre": "Thriller",
+      "audience": "Adult",
+      "title": "Edge of Deception",
+      "author": "Marcus Kane",
+      "rating": 4.4,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 7,
+      "image": "/assets/Book_7.png",
+      "genre": "Horror",
+      "audience": "Young Adult",
+      "title": "Nightmare Manor",
+      "author": "Ivy Blackwood",
+      "rating": 4.1,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 8,
+      "image": "/assets/Book_8.png",
+      "genre": "Self-Help",
+      "audience": "General",
+      "title": "Unlocking Potential",
+      "author": "Harper Steele",
+      "rating": 4.9,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    },
+    {
+      "id": 9,
+      "image": "/assets/Book_9.png",
+      "genre": "Fantasy",
+      "audience": "Adult",
+      "title": "The Dragon's Heir",
+      "author": "Avery Storm",
+      "rating": 4.2,
+      "review": "An enthralling tale filled with magic and intrigue. The world-building is exceptional, immersing readers in a vivid and enchanting universe. The characters are well-developed, and their journeys are as captivating as the plot itself."
+    }
+  ]
+  
